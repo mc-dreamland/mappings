@@ -991,37 +991,37 @@
   },
   "minecraft:orange_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 1,
     "firstBlockRuntimeId": 2048
   },
   "minecraft:magenta_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 2,
     "firstBlockRuntimeId": 2049
   },
   "minecraft:light_blue_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 3,
     "firstBlockRuntimeId": 2050
   },
   "minecraft:yellow_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 4,
     "firstBlockRuntimeId": 2051
   },
   "minecraft:lime_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 5,
     "firstBlockRuntimeId": 2052
   },
   "minecraft:pink_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 6,
     "firstBlockRuntimeId": 2053
   },
   "minecraft:gray_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 7,
     "firstBlockRuntimeId": 2054
   },
   "minecraft:light_gray_wool": {
@@ -1031,37 +1031,37 @@
   },
   "minecraft:cyan_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 9,
     "firstBlockRuntimeId": 2056
   },
   "minecraft:purple_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 10,
     "firstBlockRuntimeId": 2057
   },
   "minecraft:blue_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 11,
     "firstBlockRuntimeId": 2058
   },
   "minecraft:brown_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 12,
     "firstBlockRuntimeId": 2059
   },
   "minecraft:green_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 13,
     "firstBlockRuntimeId": 2060
   },
   "minecraft:red_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 14,
     "firstBlockRuntimeId": 2061
   },
   "minecraft:black_wool": {
     "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 0,
+    "bedrock_data": 15,
     "firstBlockRuntimeId": 2062
   },
   "minecraft:dandelion": {
@@ -5989,7 +5989,7 @@
   },
   "minecraft:piglin_head": {
     "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 6,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 8947,
     "lastBlockRuntimeId": 8962
   },
